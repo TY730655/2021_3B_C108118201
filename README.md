@@ -17,7 +17,8 @@ B109118301  | 鄧穎琳
 *2021_C108118201*
 **2021_C108118201**
 
-2021_C108118201 😍 
+~~2021_C108118201 ~~
+😍 
 # 🐛
 
 [高科大](https://www.nkust.edu.tw/)
@@ -25,4 +26,51 @@ B109118301  | 鄧穎琳
 ![Nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 
 ![fig](picture.jpg "海底風光")
+
+***
+
+- [ ] todo list
+- [x] done 1
+- [ ] unfinished
+
+
+```python
+str="This is a String."
+print(str)
+```
+
+```javascript
+var s="This is JavaScript"
+alter(s)
+```
+
+
+
+
+1. First ordered list item
+2. 縣市名稱
+   * 高雄
+   * 台北
+3. 地區
+   1. 楠梓區
+   2. 信義區
+4. 其他縣市及地區
+    * 台南市中西區
+    
+
+Table         | Are            | Cool   |
+:-------------|:--------------:|-------:|
+Col3 is       | right-aligned  |$1600   |
+Col2 is       | centered       |$12     |
+zebra stripes | are neat       |$1      |
+
+
+Markdown   | Less     | Pretty    |
+:----------|:-------- |---------  |
+*Still*    | `renders`|**nicely** |
+1          | 2        |3          |
+  
+
+
+
 
