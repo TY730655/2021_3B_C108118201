@@ -29,11 +29,34 @@ B109118301  | 鄧穎琳
 ![fig](picture.jpg "海底風光")
 
 ***
+# 實作題
+
+
+Emphasis, aka *italics*, with *asterisks* or *underscores*.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with asterisks and underscores.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
+***
+1. First ordered list item
+2. 縣市名稱
+   * 高雄
+   * 台北
+3. 地區
+   1. 楠梓區
+   2. 信義區
+4. 其他縣市及地區
+    * 台南市中西區
+***
 
 - [ ] todo list
 - [x] done 1
 - [ ] unfinished
 
+***
 
 ```python
 str="This is a String."
@@ -44,22 +67,7 @@ print(str)
 var s="This is JavaScript"
 alter(s)
 ```
-
-~~2021_C108118201~~
-*2021_C108118201*
-**2021_C108118201**
-
-
-1. First ordered list item
-2. 縣市名稱
-   * 高雄
-   * 台北
-3. 地區
-   1. 楠梓區
-   2. 信義區
-4. 其他縣市及地區
-    * 台南市中西區
-    
+***    
 
 Table         | Are            | Cool   |
 :-------------|:--------------:|-------:|
